@@ -33,7 +33,6 @@ function countBs (string) {
     }
     return acc
   }, 0)
-
   return count;
 }
 countBs("BeeBee")
