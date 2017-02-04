@@ -24,6 +24,7 @@ function isEven (num) {
 
 console.log(isEven(-2));
 
+
 // Exercise 3 - Bean Counting
 // Part 1
 function countBs (string) {
